@@ -1,0 +1,16 @@
+*/Build
+*/Binaries
+*/Intermediate
+*/DerivedDataCache
+*/Saved	
+*_BuiltData.uasset
+*_.sln
+Saved/
+Binaries/
+Intermediate/
+BattleTank.code-workspace
+*.uproject
+.vs/
+*.sln
+*.sln
+*.json
