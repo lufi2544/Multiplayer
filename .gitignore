@@ -9,7 +9,6 @@ Saved/
 Binaries/
 Intermediate/
 BattleTank.code-workspace
-*.uproject
 .vs/
 *.sln
 *.sln
